@@ -1,5 +1,8 @@
 # AribilgiAndroidHaftasonu
 
+Devam Eden projelerimiz
+## Volley ile Haber Uygulaması (Giriş/Kayıt/Haberleri Listele/Haber Ekle/PHP/MySQL) 
+
 Biten projelerimiz
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/BilmeceUygulamasi.zip">Bilmece Uygulaması</a>
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/HavaDurumuAPI.zip">HavaDurumu API (Volley Kütüphanesi)</a>
