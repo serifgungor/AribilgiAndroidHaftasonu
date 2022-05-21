@@ -1,8 +1,5 @@
 # AribilgiAndroidHaftasonu
 
-Devam Eden projelerimiz
-## Volley ile Haber Uygulaması (Giriş/Kayıt/Haberleri Listele/Haber Ekle/PHP/MySQL) 
-
 Biten projelerimiz
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/BilmeceUygulamasi.zip">Bilmece Uygulaması</a>
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/HavaDurumuAPI.zip">HavaDurumu API (Volley Kütüphanesi)</a>
@@ -10,6 +7,7 @@ Biten projelerimiz
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/proje_RoomKutuphanesi_23042022.zip">Telefon Rehberi (Room Kütüphanesi)</a>
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/15052022_YemekAppOnline2.zip">Yemek Tarifleri (Firebase Realtime Database)</a>
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/07052022_SOS_Oyunu.zip">SOS Oyunu (Firebase Realtime Database/ 1vs1 Multiplayer / Oda Sistemi)</a>
+## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/21052022_VolleyIleGirisKayit.zip">Volley ile Haber Uygulaması (Giriş/Kayıt/Haberleri Listele/Haber Ekle/PHP/MySQL)</a>
 
 Çalışmalarımız
 
