@@ -16,6 +16,8 @@ Biten projelerimiz
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/VizyondakiFilmler.zip">Vizyondaki Filmler Örneği</a>
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/JsonReadFromUrl.zip">URL'den JSON İçeriği Okuma</a>
 ## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/FirebaseRealtimeDatabase_OgrencilerOrnegi_23042022.zip">Firebase Realtime Database</a>
+## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/22052022_CokluDilDestegi.zip">Çoklu Dil Desteği / Yatay-Dikey layout Örneği</a>
+## <a href="https://github.com/serifgungor/AribilgiAndroidHaftasonu/blob/main/22052022_BildirimGondermeFirebase.zip">Firebase Bildirim Gönderme Örneği</a>
 
 
 Firebase
